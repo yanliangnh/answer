@@ -1,0 +1,11 @@
+body,p,div,li,a,span,i{ font-size:12px;margin:0; padding:0;}
+.answerCenter {
+background: #fff;
+padding: 20px 0 20px 0;
+height: auto;
+}
+.S_checkBox,.yl_tjdz,br,.M_checkBox,.M_selectBox_2,.M_checkBox_1,.yl_bt,table,.yl_fhyhzx2{ display:none;}
+.answer{ margin-top:1px;}
+.answerCenter{ padding-top:1px;}
+.answer table{ display:block;}
+
